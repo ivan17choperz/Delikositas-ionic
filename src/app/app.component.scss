@@ -1,0 +1,32 @@
+ion-card {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Opcional: elimina el borde del iframe si lo deseas */
+  overflow: hidden;
+  padding: 0;
+}
+
+ion-col{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Opcional: elimina el borde del iframe si lo deseas */
+  overflow: hidden;
+  padding: 0;
+}
+
+ion-card-content {
+  padding: 0;
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: none; /* Opcional: elimina el borde del iframe si lo deseas */
+  overflow: hidden;
+}
