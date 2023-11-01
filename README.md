@@ -19,7 +19,7 @@ ionic capacitor build android
 ```
 Este comando es primordial para poder compilar la aplicacion a android y poder abrirla en Android Studio
 
-### Iniciar aplicaión en android studio
+### Iniciar aplicación en android studio
 ```
 npx cap run android
 ```
